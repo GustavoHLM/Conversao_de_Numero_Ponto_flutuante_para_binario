@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1645801573 source:c:\users\gusta\desktop\projeto condominio\projeto gui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1645801573 c:\users\gusta\desktop\projeto condominio\projeto gui\resource.h
+
+1645825294 source:c:\users\gusta\desktop\projeto condominio\projeto gui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	"resource.h"
+	<sys/stat.h>
+
+1645825294 source:c:\users\gusta\documents\projeto condominio\projeto gui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	"resource.h"
+	<sys/stat.h>
+
+1645801573 c:\users\gusta\documents\projeto condominio\projeto gui\resource.h
+
+1645801573 source:c:\users\gusta\documents\projeto condominio\projeto gui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1661451731 source:c:\users\gusta\desktop\taffarel\projeto gui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	"resource.h"
+
+1661451521 c:\users\gusta\desktop\taffarel\projeto gui\resource.h
+
+1661451521 source:c:\users\gusta\desktop\taffarel\projeto gui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1662147499 source:c:\users\gustavo\meus documentos\taffarel\projeto gui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	"resource.h"
+
+1661950885 c:\users\gustavo\meus documentos\taffarel\projeto gui\resource.h
+
+1661950885 source:c:\users\gustavo\meus documentos\taffarel\projeto gui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1662718740 source:c:\users\gustavo\documents\taffarel\projeto gui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	"resource.h"
+	<math.h>
+
+1662665576 c:\users\gustavo\documents\taffarel\projeto gui\resource.h
+
+1662665576 source:c:\users\gustavo\documents\taffarel\projeto gui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
